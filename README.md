@@ -13,7 +13,7 @@ PYTHON LIBRARIES USED:
 1. EXPLORATORY DATA ANALYSIS
 2. DESCRIPTIVE ANALYSIS
 # Data fields:
-1.Invoice id: Computer generated sales slip invoice identification number
+1. Invoice id: Computer generated sales slip invoice identification number
 2. Branch: Branch of supercenter (3 branches are available identified by A, B and C).
 3. City: Location of supercenters
 4. Customer type: Type of customers, recorded by Members for customers using member card and Normal for without member card.
