@@ -1,5 +1,6 @@
 # OPEN THE IPYNB FILE TO CHECK THE DETAILED REPORT
 # BUSINESS_ANALYSIS_REPORT-2
+#  Supermarket sales 
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.
 # PYTHON LIBRARIES USED:
 1.PANDAS
