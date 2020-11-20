@@ -1,6 +1,6 @@
 # BUSINESS_ANALYSIS_REPORT-2
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.
-PYTHON LIBRARIES USED:
+# PYTHON LIBRARIES USED:
 1.PANDAS
 2.NUMPY
 3.MATPLOTLIB.PYPLOT
@@ -12,6 +12,7 @@ PYTHON LIBRARIES USED:
 # THE NOTEBOOK CONTAINS THE FOLLOWING:
 1. EXPLORATORY DATA ANALYSIS
 2. DESCRIPTIVE ANALYSIS
+3. CUSTOMER ANALYSIS
 # Data fields:
 1. Invoice id: Computer generated sales slip invoice identification number
 2. Branch: Branch of supercenter (3 branches are available identified by A, B and C).
